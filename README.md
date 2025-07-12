@@ -17,7 +17,7 @@
 
 - 💻 Passionate self-taught coder from **Bangladesh**
 - 🔐 Cyber Security, Node.js, API & Bot Development
-- 🤖 Author of: [`XASS_BOT`](https://t.me/XASS_BOT)
+- 🤖 Author of: [`XASS_BOT`](https://t.me/bayjid_bot_000)
 - 🛠️ Tools I Use: Linux • VS Code • GitHub • MongoDB
 
 ---
@@ -49,9 +49,9 @@
 ## 🔗 Let's Connect!
 
 <p align="center">
-  <a href="https://t.me/BaYjid"><img src="https://img.shields.io/badge/Telegram-BaYjid-0088CC?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-  <a href="https://t.me/XASS_BOT"><img src="https://img.shields.io/badge/XASS%20Bot-Running-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-  <a href="https://github.com/BaYjid"><img src="https://img.shields.io/badge/GitHub-BaYjid-black?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://t.me/MOHAMMADBAYJID"><img src="https://img.shields.io/badge/Telegram-BaYjid-0088CC?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://t.me/MOHAMMADBAYJID"><img src="https://img.shields.io/badge/XASS%20Bot-Running-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://github.com/BAYJID-00"><img src="https://img.shields.io/badge/GitHub-BaYjid-black?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
