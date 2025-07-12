@@ -1,60 +1,64 @@
-<!-- GitHub Profile README by BaYjid -->
+<!-- GitHub Profile README for BaYjid -->
 
-<!-- Typing SVG -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+BaYjid+👋;Cybersecurity+and+Telegram+Bot+Developer;Developer+of+XASS+Bot+🤖;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
-</p>
+<div align="center">
 
-<!-- GIF or Banner -->
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0E8FE9&height=200&section=header&text=BaYjid%20👨‍💻&fontSize=50&fontColor=ffffff" />
+
+### 👋 Assalamu Alaikum! I'm **BaYjid**
+
+🔹 Cybersecurity Researcher | 🤖 Telegram Bot Developer | 🌐 Web Automation Enthusiast  
+🔹 Developer of `XASS BOT` – Fast, Secure & Smart Telegram Assistant
+
+</div>
+
+---
+
+## 🧠 Who Am I?
+
+- 💻 Passionate self-taught coder from **Bangladesh**
+- 🔐 Cyber Security, Node.js, API & Bot Development
+- 🤖 Author of: [`XASS_BOT`](https://t.me/XASS_BOT)
+- 🛠️ Tools I Use: Linux • VS Code • GitHub • MongoDB
+
+---
+
+## 🧰 My Tech Toolbox
+
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+  <img src="https://skillicons.dev/icons?i=nodejs,js,express,mongodb,git,github,linux,vscode,bash,html,css" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
-- 📍 From **Bangladesh**
-- 👨‍💻 Telegram Bot Developer (`Node.js`)
-- 🔐 Cybersecurity Enthusiast
-- 🤖 Creator of **XASS** Telegram Bot
-- 📫 Contact via Telegram: [@—͟͟͞͞💜َ 𝐁𝐚𝐘 𝐣𝐢𝐝-: )•⊰𝟑✨](https://t.me/MOHAMMAD BAYJID)
+## 📊 GitHub Stats
 
----
-
-### 🧰 Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb,git,github,vscode,linux,html,css" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BaYjid&show_icons=true&theme=radical&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=BaYjid&theme=radical&hide_border=true" width="48%"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 📈 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BaYjid&show_icons=true&theme=tokyonight&hide_border=true" height="170px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BaYjid&theme=tokyonight&hide_border=true" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaYjid&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
 
-### 🧠 Top Languages
+## 🔗 Let's Connect!
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaYjid&layout=compact&theme=tokyonight&hide_border=true" />
+  <a href="https://t.me/BaYjid"><img src="https://img.shields.io/badge/Telegram-BaYjid-0088CC?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://t.me/XASS_BOT"><img src="https://img.shields.io/badge/XASS%20Bot-Running-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://github.com/BaYjid"><img src="https://img.shields.io/badge/GitHub-BaYjid-black?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
 
-### 🌐 Connect With Me
-<p align="center">
-  <a href="https://t.me/MOHAMMADBAYJID" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
-  <a href="https://t.me/MOHAMMADBAYJID" target="_blank">
-    <img src="https://img.shields.io/badge/XASS%20Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
-  <a href="https://github.com/BAYJID-00" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=BaYjid&theme=onedark&column=4" />
+</div>
 
 ---
 
