@@ -17,7 +17,7 @@
 - 👨‍💻 Telegram Bot Developer (`Node.js`)
 - 🔐 Cybersecurity Enthusiast
 - 🤖 Creator of **XASS** Telegram Bot
-- 📫 Contact via Telegram: [@BaYjid](https://t.me/BaYjid)
+- 📫 Contact via Telegram: [@—͟͟͞͞💜َ 𝐁𝐚𝐘 𝐣𝐢𝐝-: )•⊰𝟑✨](https://t.me/MOHAMMAD BAYJID)
 
 ---
 
@@ -45,13 +45,13 @@
 
 ### 🌐 Connect With Me
 <p align="center">
-  <a href="https://t.me/BaYjid" target="_blank">
+  <a href="https://t.me/MOHAMMADBAYJID" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
-  <a href="https://t.me/XASS_BOT" target="_blank">
+  <a href="https://t.me/MOHAMMADBAYJID" target="_blank">
     <img src="https://img.shields.io/badge/XASS%20Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
-  <a href="https://github.com/BaYjid" target="_blank">
+  <a href="https://github.com/BAYJID-00" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
