@@ -76,18 +76,18 @@
 
 <div align="center">
 
-  <!-- GitHub Stats with fallback -->
-  <img src="https://github-readme-stats.vercel.app/api?username=BAYJID-00&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true" alt="GitHub Stats" onerror="this.src='https://via.placeholder.com/400x130?text=Stats+Unavailable'" />
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=BAYJID-00&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" alt="GitHub Stats" />
 
   <br><br>
 
-  <!-- GitHub Streak with fallback -->
-  <img src="https://streak-stats.demolab.com?user=BAYJID-00&theme=tokyonight" alt="GitHub Streak" onerror="this.src='https://via.placeholder.com/400x130?text=Streak+Unavailable'" />
+  <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com?user=BAYJID-00&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 
   <br><br>
 
-  <!-- Top Languages with fallback -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BAYJID-00&layout=compact&theme=tokyonight" alt="Top Languages" onerror="this.src='https://via.placeholder.com/200x100?text=Top+Languages+Unavailable'" />
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BAYJID-00&layout=compact&theme=tokyonight&hide_border=false&langs_count=8" alt="Top Languages" />
 
 </div>
 
