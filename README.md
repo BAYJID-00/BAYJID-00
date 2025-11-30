@@ -6,7 +6,7 @@
 
 <div align="center">
     <a href="https://naze.biz.id">
-        <img src="https://img.shields.io/badge/Naze%20Api-ff5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge" />
+        <img src="https://img.shields.io/badge/BaYjid%20XaSs-ff5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge" />
     </a>
 </div>
 
