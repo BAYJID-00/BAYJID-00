@@ -1,61 +1,75 @@
 <!-- Header -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff3c00,100:00ffe7&height=250&section=header&text=𝐁𝐚𝐘𝐣𝐢𝐝&fontSize=45&fontColor=ffffff&animation=fadeIn" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=500&lines=💻+Beginner+JavaScript+Learner;🚀+Web+Enthusiast;🔥+Exploring+Programming;🧠+Learning+Never+Stops!" />
-</p>
+<div align="center">
+  <h1 style="font-size:50px; font-weight:700;
+             background: linear-gradient(90deg,#ff00ff,#00ffff,#ff8c00);
+             -webkit-background-clip: text; color: transparent;">
+    🚀 Hi, I'm BaYjid
+  </h1>
+  <p style="font-size:20px; color:#00eaff;">
+    Beginner JavaScript Learner | Web Enthusiast | Exploring Programming
+  </p>
+</div>
 
 ---
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=BAYJID-00&label=Profile+Views&color=0e75b6&style=flat" /> 
-  <img src="https://img.shields.io/github/followers/BAYJID-00?label=Follow%20Me&style=social" /> 
-</p>
+## 🔥 About Me
+<div style="border-left: 4px solid #ff00ff; padding-left:10px; margin-bottom:15px;">
+- 👨‍💻 Learning **JavaScript** step by step  
+- 🎯 Gamer: **Genshin Impact**  
+- 🌱 Passionate about Web Development & Bots  
+- 📧 Email: **bayjidking@yahoo.com**
+</div>
 
-## 🧠 About Me
-```json
-{
-  "name": "BaYjid",
-  "title": "Beginner Programmer | Web Enthusiast",
-  "focus": ["JavaScript", "Web Development", "Bots"],
-  "stack": ["HTML", "CSS", "JavaScript", "Node.js", "Git", "GitHub"],
-  "contact": {
-    "Instagram": "https://instagram.com/umm_bayjid1",
-    "Telegram": "@MOHAMMADBAYJID",
-    "WhatsApp": "https://wa.me/message/MOHAMMADBAYJID.OFFICIAL.007"
-  }
-}
-```
+---
 
-| 💻 Languages                                                                            | ⚙️ Backend                                                                                | 🧠 Tools                                                                             | 🌐 DevOps                                                                           |
-| --------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------- |
-| ![JS](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript) | ![Node](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)       | ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)           | ![Heroku](https://img.shields.io/badge/Heroku-000?style=for-the-badge&logo=heroku) |
-| ![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5)          | ![Express](https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express) | ![VSCode](https://img.shields.io/badge/VSCode-000?style=for-the-badge&logo=visual-studio-code) | ![Replit](https://img.shields.io/badge/Replit-000?style=for-the-badge&logo=replit) |
+## 🚀 My Skills
+<div align="center" style="display:flex; flex-wrap:wrap; gap:10px; justify-content:center;">
+  <div style="border:1px solid #00eaff; padding:8px 15px; border-radius:10px;">HTML</div>
+  <div style="border:1px solid #00eaff; padding:8px 15px; border-radius:10px;">CSS</div>
+  <div style="border:1px solid #00eaff; padding:8px 15px; border-radius:10px;">JavaScript</div>
+  <div style="border:1px solid #00eaff; padding:8px 15px; border-radius:10px;">Node.js</div>
+  <div style="border:1px solid #00eaff; padding:8px 15px; border-radius:10px;">Git</div>
+  <div style="border:1px solid #00eaff; padding:8px 15px; border-radius:10px;">GitHub</div>
+</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=00ff00" />
-  <img src="https://img.shields.io/badge/-Node.js-000000?style=flat&logo=nodedotjs&logoColor=00ff00" />
-  <img src="https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=00ff00" />
-  <img src="https://img.shields.io/badge/-HTML-000000?style=flat&logo=html5&logoColor=00ff00" />
-  <img src="https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3&logoColor=00ff00" />
-  <img src="https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=00ff00" />
-  <img src="https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=00ff00" />
-</p>
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BAYJID-00&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BAYJID-00&layout=compact&theme=tokyonight" height="180px" />
-</p>
+## 🌐 Connect With Me
+<div align="center" style="display:flex; flex-wrap:wrap; gap:10px; justify-content:center;">
+  <a href="https://instagram.com/umm_bayjid1"><img src="https://img.shields.io/badge/Instagram-ff4f8a?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://t.me/MOHAMMADBAYJID"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://wa.me/message/MOHAMMADBAYJID.OFFICIAL.007"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  <a href="https://youtube.com/c/BAYJID-6T9"><img src="https://img.shields.io/badge/YouTube-BaYjid-ff0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://github.com/BAYJID-00"><img src="https://img.shields.io/badge/GitHub-BaYjid-000000?style=for-the-badge&logo=github"/></a>
+</div>
 
-<p align="center"> 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BAYJID-00&theme=github-compact&bg_color=0d1117&color=00ffe7&line=ff3c00&point=ffffff&area=true" /> 
-</p>
+---
 
-<p align="center"> 
-  <a href="https://instagram.com/umm_bayjid1"><img src="https://img.shields.io/badge/Instagram-ff4f8a?style=for-the-badge&logo=instagram&logoColor=white" /></a> 
-  <a href="https://t.me/MOHAMMADBAYJID"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a> 
-  <a href="https://wa.me/message/MOHAMMADBAYJID.OFFICIAL.007"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a> 
-</p>
+## 📊 GitHub Stats
+<div align="center" style="display:flex; flex-wrap:wrap; gap:20px; justify-content:center; margin-top:10px;">
+  <div style="border:2px solid #ff00ff; border-radius:15px; padding:10px; background:#0d1117;">
+    <h4 style="color:white; text-align:center;">GitHub Stats</h4>
+    <img src="https://github-readme-stats.vercel.app/api?username=BAYJID-00&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats"/>
+  </div>
+  <div style="border:2px solid #00ffff; border-radius:15px; padding:10px; background:#0d1117;">
+    <h4 style="color:white; text-align:center;">Top Languages</h4>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BAYJID-00&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages"/>
+  </div>
+</div>
+
+---
+
+## 📈 Activity Graph
+<div align="center" style="margin-top:20px;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BAYJID-00&theme=github-dark&bg_color=0d1117&color=ff00ff&line=00ffff&point=ffffff&area=true" />
+</div>
+
+---
+
+## 🧩 Footer
+<div align="center">
+  <h3 style="background: linear-gradient(90deg,#ff00ff,#00ffff,#ff8c00);
+             -webkit-background-clip: text; color: transparent;">
+     🚀 Thanks for visiting my GitHub profile!
+  </h3>
+</div>
