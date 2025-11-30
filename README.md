@@ -35,4 +35,4 @@
 
 <p align="center"><a href="https://github.com/BAYJID-00"><img src="https://github-readme-stats.vercel.app/api?username=BAYJID-00&show_icons=true&theme=chartreuse-dark"></a></p>
 <p align="center"><a href="https://github.com/BAYJID-00"><img src="https://streak-stats.demolab.com/?user=BAYJID-00&theme=chartreuse-dark"></a></p>
-<p align="center"><a href="https://github.com/BAYJID-00"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazedev&theme=chartreuse-dark&layout=compact"></a></p> 
+<p align="center"><a href="https://github.com/BAYJID-00"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bayjid&theme=chartreuse-dark&layout=compact"></a></p> 
