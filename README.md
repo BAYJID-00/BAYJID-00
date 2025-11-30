@@ -1,12 +1,19 @@
 <div align="center">
 
-  <!-- Clean Tech Header -->
-  <div align="center">
+  <!-- RAINBOW BORDER ANIMATION -->
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</div>
 
-  <h1>👋 Hi, I'm <span style="color:#00eaff;">BaYjid</span></h1>
-  <h3>💻 Beginner JavaScript Learner | 🌐 Web Enthusiast | 🚀 Exploring Programming</h3>
+  <h1 style="font-size:45px; font-weight:700;
+             background: linear-gradient(90deg, #ff004f, #ff8c00, #ffee00, #4cff00, #00eaff, #8b00ff);
+             -webkit-background-clip: text; color: transparent;">
+    👋 Hi, I'm BaYjid
+  </h1>
+
+  <h3 style="
+    background: linear-gradient(90deg,#00eaff,#4cff00,#ffee00,#ff8c00,#ff004f);
+    -webkit-background-clip: text; color: transparent;">
+    💻 Beginner JavaScript Learner | 🌐 Web Enthusiast | 🚀 Exploring Programming
+  </h3>
 
 </div>
 
@@ -21,10 +28,9 @@
 ---
 
 ## 🚀 My Skills (Beginner Level)
-<div align="center">
-  
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,github,git,replit,vscode" />
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,github,git,replit,vscode" />
 </div>
 
 ---
@@ -50,13 +56,13 @@
     <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
 
-  <br>
+  <br><br>
 
   <a href="https://youtube.com/c/BAYJID-6T9">
     <img src="https://img.shields.io/badge/YouTube-BaYjid-ff0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
 
-  <br>
+  <br><br>
 
   <a href="https://github.com/BAYJID-00">
     <img src="https://img.shields.io/badge/GitHub-BaYjid-000000?style=for-the-badge&logo=github"/>
@@ -91,5 +97,9 @@
 
 ## 🧩 Footer
 <div align="center">
-  <h3>🚀 Thanks for visiting my GitHub profile!</h3>
+  <h3 style="
+     background: linear-gradient(90deg,#ff004f,#ff8c00,#ffee00,#4cff00,#00eaff,#8b00ff);
+     -webkit-background-clip: text; color: transparent;">
+     🚀 Thanks for visiting my GitHub profile!
+  </h3>
 </div>
