@@ -1,7 +1,9 @@
 <div align="center">
 
   <!-- Clean Tech Header -->
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" width="100%" />
+  <div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</div>
 
   <h1>👋 Hi, I'm <span style="color:#00eaff;">BaYjid</span></h1>
   <h3>💻 Beginner JavaScript Learner | 🌐 Web Enthusiast | 🚀 Exploring Programming</h3>
