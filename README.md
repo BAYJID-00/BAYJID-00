@@ -1,67 +1,38 @@
-<!-- GitHub Profile README for BaYjid -->
-
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0E8FE9&height=200&section=header&text=BaYjid%20👨‍💻&fontSize=50&fontColor=ffffff" />
-
-### 👋 Assalamu Alaikum! I'm **BaYjid**
-
-🔹 Cybersecurity Researcher | 🤖 Telegram Bot Developer | 🌐 Web Automation Enthusiast  
-🔹 Developer of `XASS BOT` – Fast, Secure & Smart Telegram Assistant
-
+    <a href="https://youtube.com/c/BAYJID-6T9">
+        <img src="https://readme-typing-svg.herokuapp.com?font=ShadowsIntoLightsize=50&duration=5500&color=f70787&background=FF673200&center=true&vCenter=true&lines=Hello,+I+am+BaYjid;Welcome+to+my+GitHub+😊" alt="Typing SVG" />
+    </a>
 </div>
 
----
-
-## 🧠 Who Am I?
-
-- 💻 Passionate self-taught coder from **Bangladesh**
-- 🔐 Cyber Security, Node.js, API & Bot Development
-- 🤖 Author of: [`XASS_BOT`](https://t.me/bayjid_bot_000)
-- 🛠️ Tools I Use: Linux • VS Code • GitHub • MongoDB
-
----
-
-## 🧰 My Tech Toolbox
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,js,express,mongodb,git,github,linux,vscode,bash,html,css" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BaYjid&show_icons=true&theme=radical&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=BaYjid&theme=radical&hide_border=true" width="48%"/>
-</p>
-
----
-
-## 📈 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaYjid&layout=compact&theme=radical&hide_border=true" />
-</p>
-
----
-
-## 🔗 Let's Connect!
-
-<p align="center">
-  <a href="https://t.me/MOHAMMADBAYJID"><img src="https://img.shields.io/badge/Telegram-BaYjid-0088CC?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-  <a href="https://t.me/MOHAMMADBAYJID"><img src="https://img.shields.io/badge/XASS%20Bot-Running-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-  <a href="https://github.com/BAYJID-00"><img src="https://img.shields.io/badge/GitHub-BaYjid-black?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
----
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BaYjid&theme=onedark&column=4" />
+    <a href="https://naze.biz.id">
+        <img src="https://img.shields.io/badge/Naze%20Api-ff5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge" />
+    </a>
 </div>
 
----
+### Current activities 
+- 👨‍💻 I am Not a Programmer
+- 🌱 I am currently learning JavaScript
+- 🎯 Play Genshin Impact With Me? ID 52374896441
+- 📧 My Business Email bayjidking@yahoo.ckm
 
+
+
+### Connect with me ☎️
+<h4 align="center">Visitor's Count :</h4>
+<p align="center"><img src="https://count.getloli.com/get/@nazedev-github-readme?theme=rule34" /></p>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0E8FE9&height=120&section=footer"/>
+  <a href="https://instagram.com/umm_bayjid1"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
+  <a href="https://wa.me/message/MOHAMMADBAYJID.OFFICIAL.007"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a href="https://t.me/MOHAMMADBAYJID"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /> <br>
+  <a href="https://youtube.com/c/BAYJID-6T9"><img src="https://img.shields.io/badge/YouTube-Naze -ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/@BAYJID-6T9" /><br>
+  <a href="https://github.com/nazedev"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
+  <a href="https://youtube.com/channel/UCl77jQD3nSFp__z1oRxm-fA"><img src="https://img.shields.io/youtube/channel/subscribers/UCl77jQD3nSFp__z1oRxm-fA?style=social" /> <br>
+  <a name=nazedev&label=VIEWS&style=flat-square&color=orange" />
 </p>
+
+### Github Stats 🚀
+
+<p align="center"><a href="https://github.com/BAYJID-00"><img src="https://github-readme-stats.vercel.app/api?username=nazedev&show_icons=true&theme=chartreuse-dark"></a></p>
+<p align="center"><a href="https://github.com/nazedev"><img src="https://streak-stats.demolab.com/?user=nasedev&theme=chartreuse-dark"></a></p>
+<p align="center"><a href="https://github.com/nazedev"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazedev&theme=chartreuse-dark&layout=compact"></a></p> 
