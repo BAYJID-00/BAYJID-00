@@ -76,12 +76,15 @@
 
 <div align="center">
 
+  <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=BAYJID-00&show_icons=true&theme=tokyonight" />
   <br><br>
 
+  <!-- GitHub Streak -->
   <img src="https://streak-stats.demolab.com?user=BAYJID-00&theme=tokyonight" />
   <br><br>
 
+  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BAYJID-00&layout=compact&theme=tokyonight" />
 
 </div>
@@ -90,7 +93,6 @@
 
 ## 🧠 Today's Coding Quote
 <div align="center">
-  <div>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </div>
 
