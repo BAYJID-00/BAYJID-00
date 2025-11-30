@@ -76,16 +76,18 @@
 
 <div align="center">
 
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=BAYJID-00&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <!-- GitHub Stats with fallback -->
+  <img src="https://github-readme-stats.vercel.app/api?username=BAYJID-00&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true" alt="GitHub Stats" onerror="this.src='https://via.placeholder.com/400x130?text=Stats+Unavailable'" />
+
   <br><br>
 
-  <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com?user=BAYJID-00&theme=tokyonight" alt="GitHub Streak"/>
+  <!-- GitHub Streak with fallback -->
+  <img src="https://streak-stats.demolab.com?user=BAYJID-00&theme=tokyonight" alt="GitHub Streak" onerror="this.src='https://via.placeholder.com/400x130?text=Streak+Unavailable'" />
+
   <br><br>
 
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BAYJID-00&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <!-- Top Languages with fallback -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BAYJID-00&layout=compact&theme=tokyonight" alt="Top Languages" onerror="this.src='https://via.placeholder.com/200x100?text=Top+Languages+Unavailable'" />
 
 </div>
 
@@ -93,7 +95,6 @@
 
 ## 🧠 Today's Coding Quote
 <div align="center">
-  <!-- Static GIF to avoid API issues -->
   <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" alt="Coding Quote" width="300" />
 </div>
 
