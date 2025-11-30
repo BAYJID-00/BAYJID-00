@@ -93,7 +93,8 @@
 
 ## 🧠 Today's Coding Quote
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+  <!-- Replaced unreliable API with a static GIF from Giphy -->
+  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" alt="Coding Quote GIF" />
 </div>
 
 ---
