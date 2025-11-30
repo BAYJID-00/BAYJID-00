@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-    <a href="https://naze.biz.id">
+    <a href="https://xass-api.vercel.app/">
         <img src="https://img.shields.io/badge/BaYjid%20XaSs-ff5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge" />
     </a>
 </div>
@@ -14,13 +14,13 @@
 - 👨‍💻 I am Not a Programmer
 - 🌱 I am currently learning JavaScript
 - 🎯 Play Genshin Impact With Me? ID 52374896441
-- 📧 My Business Email bayjidking@yahoo.ckm
+- 📧 My Business Email bayjidking@yahoo.com
 
 
 
 ### Connect with me ☎️
 <h4 align="center">Visitor's Count :</h4>
-<p align="center"><img src="https://count.getloli.com/get/@nazedev-github-readme?theme=rule34" /></p>
+<p align="center"><img src="https://count.getloli.com/get/@BAYJID-00-github-readme?theme=rule34" /></p>
 <p align="center">
   <a href="https://instagram.com/umm_bayjid1"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
   <a href="https://wa.me/message/MOHAMMADBAYJID.OFFICIAL.007"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
