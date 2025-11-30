@@ -1,35 +1,35 @@
 <div align="center">
 
-  <!-- 🔥 3D Anime Header Animation -->
-  <img src="https://i.ibb.co/vhQ1HVC/3d-anime-boy.gif" width="350" style="border-radius:20px"/>
+  <!-- 3D Anime Header -->
+  <img src="https://media.tenor.com/2roX3uxz_68AAAAC/anime-boy.gif" width="330" style="border-radius:20px"/>
 
   <br><br>
 
-  <!-- ✨ Typing Animation -->
+  <!-- Typing Text -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Titan+One&size=45&duration=4500&pause=1200&color=ff4ad4&center=true&vCenter=true&width=900&lines=Hi+I'm+BaYjid;Welcome+To+My+Anime+Profile;Enjoy+3D+%26+Animated+Vibes+💖" />
 </div>
 
 ---
 
-<!-- 🎀 3D Anime Stickers Row -->
+<!-- Cute Anime Stickers -->
 <div align="center">
 
-  <img src="https://i.ibb.co/YhPQWcK/chibi-boy.gif" width="150" style="border-radius:15px; margin:5px"/>
-  <img src="https://i.ibb.co/jk78k5S/cute-anime.gif" width="150" style="border-radius:15px; margin:5px"/>
-  <img src="https://i.ibb.co/R7Rz1ZP/anime-hello.gif" width="150" style="border-radius:15px; margin:5px"/>
+  <img src="https://media.tenor.com/eDchk3srty4AAAAC/anime-boy.gif" width="150" style="border-radius:15px; margin:5px"/>
+  <img src="https://media.tenor.com/Chf5pWnrB9wAAAAC/kawaii-anime.gif" width="150" style="border-radius:15px; margin:5px"/>
+  <img src="https://media.tenor.com/9dK4AxP0f9QAAAAC/anime-hi.gif" width="150" style="border-radius:15px; margin:5px"/>
 
 </div>
 
 ---
 
 ## 🎌 Current Activities — Anime Edition
-- 🚫 I am **Not a Programmer**
-- 🌱 Learning **JavaScript** powered by anime energy ⚡  
+- 🚫 Not a Programmer  
+- 🌱 Learning Javascript  
 - 🎮 Genshin Impact ID → **52374896441**
 - 📧 Email → **bayjidking@yahoo.com**
 
 <div align="center">
-  <img src="https://i.ibb.co/Dkw5R8d/cute-loading.gif" width="220" />
+  <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/anime-girl.gif" width="200"/>
 </div>
 
 ---
@@ -71,10 +71,10 @@
 
 ---
 
-## 🚀 GitHub Stats (3D Glow Anime Theme)
+## 🚀 GitHub Stats (Glow Anime Theme)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BAYJID-00&show_icons=true&theme=midnight-purple&icon_color=ff99ff&title_color=ff4ad4&text_color=ffffff&bg_color=0d0d0d" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BAYJID-00&show_icons=true&theme=midnight-purple" />
   <br><br>
 
   <img src="https://streak-stats.demolab.com?user=BAYJID-00&theme=violet-pink&hide_border=true" />
@@ -85,8 +85,8 @@
 
 ---
 
-## 🩷 Cute Anime Footer (3D Chibi)
+## 🩷 Anime Chibi Footer
 <div align="center">
-  <img src="https://i.ibb.co/PwXFDpP/chibi-bye.gif" width="200"/>
+  <img src="https://media.tenor.com/rlQXjHkSAd4AAAAC/anime-wave.gif" width="180"/>
   <h3>💖 Thanks For Visiting My Anime World 💖</h3>
 </div>
