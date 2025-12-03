@@ -55,10 +55,9 @@
 
 <!-- GitHub Stats -->
 <h2>📊 GitHub Stats</h2>
-<div align="center">
-  <img src="https://github-readme-stats-bay.vercel.app/api?username=BAYJID-00&show_icons=true&theme=tokyonight&count_private=true" height="180px"/>
+<<img src="https://readme-stats.clckblog.space/api?username=BAYJID-00&show_icons=true&theme=tokyonight" height="180px"/>
 
-<img src="https://github-readme-stats-bay.vercel.app/api/top-langs/?username=BAYJID-00&layout=compact&theme=tokyonight" height="180px"/>
+<img src="https://readme-stats.clckblog.space/api/top-langs/?username=BAYJID-00&layout=compact&theme=tokyonight" height="180px"/>
 
 ---
 
